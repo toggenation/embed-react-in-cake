@@ -1,3 +1,10 @@
+# How to embed a Create React App in CakePHP 4 and configure both for development
+
+CakePHP 4 Features: 
+    * Baking and implementing a custom Component
+    * Example of `collection()` global helper method (.e.g. new Collection ())
+    * Using `$this->request->is('ajax')` (a.k.a Detectors)
+    * Cors Middleware
 
 ## Video Timings
 
