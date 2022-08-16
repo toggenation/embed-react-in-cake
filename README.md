@@ -8,6 +8,15 @@ CakePHP 4 Features:
 * Cors Middleware [https://github.com/toggenation/cakephp-cors](https://github.com/toggenation/cakephp-cors)
 
 
+
+## References 
+
+* Create React App - [https://create-react-app.dev/docs/getting-started/](https://create-react-app.dev/docs/getting-started/)
+* CakePHP 4 Components - [https://book.cakephp.org/4/en/controllers/components.html](https://book.cakephp.org/4/en/controllers/components.html)
+* About CakePHP 4 Middleware - [https://book.cakephp.org/4/en/controllers/middleware.html](https://book.cakephp.org/4/en/controllers/middleware.html)
+* CakePHP 4 Request Detectors - [https://book.cakephp.org/4/en/controllers/request-response.html#checking-request-conditions](https://book.cakephp.org/4/en/controllers/request-response.html#checking-request-conditions)
+
+
 ## Youtube Video 
 
 [https://youtu.be/MRHbp8xkBJ0](https://youtu.be/MRHbp8xkBJ0)
@@ -39,3 +48,4 @@ CakePHP 4 Features:
 39:20 Adding Cors Middleware\
 42:17 Stopping useEffect running too many times\
 46:36 Using npm version patch to version React builds\
+
