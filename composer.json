@@ -13,7 +13,7 @@
     "require": {
         "ozee31/cakephp-cors": "dev-master",
         "php": ">=7.4",
-        "cakephp/cakephp": "4.4.*",
+        "cakephp/cakephp": "4.5.*",
         "cakephp/migrations": "^3.2",
         "cakephp/plugin-installer": "^1.3",
         "mobiledetect/mobiledetectlib": "^2.8"
